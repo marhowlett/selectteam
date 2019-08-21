@@ -1,0 +1,43 @@
+/*
+Theme Name: Select Team
+Description: Jupiter X Child Theme
+Author: Artbees
+Author URI: https://jupiterx.com
+Template: jupiterx
+Version: 1.0.0
+Text Domain: jupiterx-child
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* Add your custom CSS codes in assets/less/style.less */
+
+
+@font-face {
+    font-family: 'Cronus Round';
+    src: url('CronusRound.woff2') format('woff2'),
+        url('CronusRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cronus';
+    src: url('Cronus-Italic.woff2') format('woff2'),
+        url('Cronus-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brush Wedco';
+    src: url('BrushWedcoRegular.woff2') format('woff2'),
+        url('BrushWedcoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h2 {
+    font-family: 'Brush Wedco';
+}

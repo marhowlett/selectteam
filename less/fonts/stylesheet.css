@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Cronus Round';
+    src: url('CronusRound.woff2') format('woff2'),
+        url('CronusRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cronus';
+    src: url('Cronus-Italic.woff2') format('woff2'),
+        url('Cronus-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brush Wedco';
+    src: url('BrushWedcoRegular.woff2') format('woff2'),
+        url('BrushWedcoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
