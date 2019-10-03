@@ -29,3 +29,8 @@ input,
 label {
   font-family: 'Cronus' !important;
 }
+.letra {
+  left: 28px;
+  position: relative;
+  top: -127px;
+}

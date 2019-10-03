@@ -1701,12 +1701,3 @@ div.product div.woocommerce-product-gallery .flex-viewport .woocommerce-product-
 @media (min-width:576px){.jupiterx-wc-step-divider{height:auto !important}}
 @media (max-width:575.98px){.jupiterx-wc-step-divider{width:auto !important;border-top-width:0 !important}}
 .woocommerce #reviews ol.commentlist{padding:0}
-
-
-h1 {
-    font-family: 'Brush Wedco';
-}
-
-p {
-    font-family: 'Cronus';
-}
