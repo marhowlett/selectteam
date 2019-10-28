@@ -21,6 +21,16 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Gloss And Bloom';
+    src: url('fonts/GlossAndBloom.woff2') format('woff2'),
+        url('fonts/GlossAndBloom.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.principal span.raven-heading-title {
+  font-family: 'Gloss And Bloom'!important;   
+}
 span.raven-heading-title-inner span, h1 span, h2 span span span, span.raven-heading-title span.about, span.opcion, h5, h2.obten {
      font-family: 'Brush Wedco'!important;
 }
@@ -39,6 +49,7 @@ h3.crear {
 h2.proceso {
     font-size: 55px;
 }
+
 .letra {
   left: 28px;
   position: relative;
